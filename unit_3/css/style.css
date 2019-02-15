@@ -1,0 +1,60 @@
+body {
+	background: url("/Users/davidgray/Documents/ga_html_css_course/dagray11.github.io/unit_3/images/crowdshot.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #ffffff;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 18px;
+}
+#nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 5px 10px 5px 10px;
+	text-align: justify;
+	min-width: 300px;
+}
+#nav:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+#nav li {
+	display: inline-block;
+}
+.menu {
+	font-size: 18px;
+}
+#nav li a {
+	color: #ffffff;
+	text-decoration: none;
+}
+#brand {
+	font-size: 24px;
+	text-transform: uppercase;
+}
+h1 {
+	padding: 25px;
+	font-size: 40px;
+	font-weight: 500;
+	text-align: center;
+}
+p {
+	padding: 0px 100px 0px 100px;
+	font-weight: 100
+}
+#offerings {
+	padding: 30px 20px 150px 20px;
+	text-align: center;
+	list-style-type: none;
+	font-weight: 100;
+}
+hr {
+	width: 80%;
+}
+#contact {
+	text-align: center;
+	font-size: 16px;
+}
+a {
+	color: #93FFFF;
+}
