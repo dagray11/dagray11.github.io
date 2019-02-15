@@ -1,5 +1,5 @@
 body {
-	background: url("/Users/davidgray/Documents/ga_html_css_course/dagray11.github.io/unit_3/images/crowdshot.jpg");
+	background: url("../images/crowdshot.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #ffffff;
