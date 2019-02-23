@@ -41,7 +41,7 @@ h1 {
 	font-size: 3em;
 	font-weight: 600;
 	text-align: center;
-	margin: .75em;
+	margin: .75em 0em 1em;
 	font-variant: small-caps;
 }
 .info {
@@ -54,7 +54,7 @@ p {
 	font-weight: 100
 }
 #offerings {
-	padding: 1.5em 1em 7em;
+	padding: 1.5em 1em 6.5em;
 	text-align: center;
 	list-style-type: none;
 	font-weight: 100;
