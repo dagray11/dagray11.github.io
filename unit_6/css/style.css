@@ -32,6 +32,11 @@ nav {
 nav li {
 	display: inline-block;
 }
+
+nav li:hover {
+	border-bottom: 1px solid white;
+}
+
 .menu {
 	font-size: 1em;
 }
