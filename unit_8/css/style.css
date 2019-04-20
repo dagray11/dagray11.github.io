@@ -90,6 +90,10 @@ p {
 	padding: 1em;
 }
 
+form {
+	margin: 0 auto;
+}
+
 input[type=text], select, textarea {
 	width: 18em;
 	padding: .5em;
