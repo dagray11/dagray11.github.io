@@ -86,7 +86,7 @@ p {
 }
 #contactform {
 	text-align: center;
-	margin: 0 auto;
+	position: center;
 	padding: 1em;
 }
 
